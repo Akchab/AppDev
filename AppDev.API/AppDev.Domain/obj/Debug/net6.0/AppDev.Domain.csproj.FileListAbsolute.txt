@@ -1,0 +1,27 @@
+F:\ISLINGTON COURSES\3RD YEAR\Application Development\AppDev.API\AppDev.Domain\bin\Debug\net6.0\AppDev.Domain.deps.json
+F:\ISLINGTON COURSES\3RD YEAR\Application Development\AppDev.API\AppDev.Domain\bin\Debug\net6.0\AppDev.Domain.dll
+F:\ISLINGTON COURSES\3RD YEAR\Application Development\AppDev.API\AppDev.Domain\bin\Debug\net6.0\AppDev.Domain.pdb
+F:\ISLINGTON COURSES\3RD YEAR\Application Development\AppDev.API\AppDev.Domain\bin\Debug\net6.0\AppDev.Application.dll
+F:\ISLINGTON COURSES\3RD YEAR\Application Development\AppDev.API\AppDev.Domain\bin\Debug\net6.0\AppDev.Application.pdb
+F:\ISLINGTON COURSES\3RD YEAR\Application Development\AppDev.API\AppDev.Domain\obj\Debug\net6.0\AppDev.Domain.csproj.AssemblyReference.cache
+F:\ISLINGTON COURSES\3RD YEAR\Application Development\AppDev.API\AppDev.Domain\obj\Debug\net6.0\AppDev.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\ISLINGTON COURSES\3RD YEAR\Application Development\AppDev.API\AppDev.Domain\obj\Debug\net6.0\AppDev.Domain.AssemblyInfoInputs.cache
+F:\ISLINGTON COURSES\3RD YEAR\Application Development\AppDev.API\AppDev.Domain\obj\Debug\net6.0\AppDev.Domain.AssemblyInfo.cs
+F:\ISLINGTON COURSES\3RD YEAR\Application Development\AppDev.API\AppDev.Domain\obj\Debug\net6.0\AppDev.Domain.csproj.CoreCompileInputs.cache
+F:\ISLINGTON COURSES\3RD YEAR\Application Development\AppDev.API\AppDev.Domain\obj\Debug\net6.0\AppDev.Domain.csproj.CopyComplete
+F:\ISLINGTON COURSES\3RD YEAR\Application Development\AppDev.API\AppDev.Domain\obj\Debug\net6.0\AppDev.Domain.dll
+F:\ISLINGTON COURSES\3RD YEAR\Application Development\AppDev.API\AppDev.Domain\obj\Debug\net6.0\refint\AppDev.Domain.dll
+F:\ISLINGTON COURSES\3RD YEAR\Application Development\AppDev.API\AppDev.Domain\obj\Debug\net6.0\AppDev.Domain.pdb
+F:\ISLINGTON COURSES\3RD YEAR\Application Development\AppDev.API\AppDev.Domain\obj\Debug\net6.0\ref\AppDev.Domain.dll
+E:\document\AppDev.API\AppDev.API\AppDev.Domain\bin\Debug\net6.0\AppDev.Domain.deps.json
+E:\document\AppDev.API\AppDev.API\AppDev.Domain\bin\Debug\net6.0\AppDev.Domain.dll
+E:\document\AppDev.API\AppDev.API\AppDev.Domain\bin\Debug\net6.0\AppDev.Domain.pdb
+E:\document\AppDev.API\AppDev.API\AppDev.Domain\obj\Debug\net6.0\AppDev.Domain.csproj.AssemblyReference.cache
+E:\document\AppDev.API\AppDev.API\AppDev.Domain\obj\Debug\net6.0\AppDev.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\document\AppDev.API\AppDev.API\AppDev.Domain\obj\Debug\net6.0\AppDev.Domain.AssemblyInfoInputs.cache
+E:\document\AppDev.API\AppDev.API\AppDev.Domain\obj\Debug\net6.0\AppDev.Domain.AssemblyInfo.cs
+E:\document\AppDev.API\AppDev.API\AppDev.Domain\obj\Debug\net6.0\AppDev.Domain.csproj.CoreCompileInputs.cache
+E:\document\AppDev.API\AppDev.API\AppDev.Domain\obj\Debug\net6.0\AppDev.Domain.dll
+E:\document\AppDev.API\AppDev.API\AppDev.Domain\obj\Debug\net6.0\refint\AppDev.Domain.dll
+E:\document\AppDev.API\AppDev.API\AppDev.Domain\obj\Debug\net6.0\AppDev.Domain.pdb
+E:\document\AppDev.API\AppDev.API\AppDev.Domain\obj\Debug\net6.0\ref\AppDev.Domain.dll

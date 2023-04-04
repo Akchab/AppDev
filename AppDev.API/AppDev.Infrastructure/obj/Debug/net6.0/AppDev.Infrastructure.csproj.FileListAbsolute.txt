@@ -1,0 +1,36 @@
+F:\ISLINGTON COURSES\3RD YEAR\Application Development\AppDev.API\AppDev.Infrastructure\bin\Debug\net6.0\AppDev.Infrastructure.deps.json
+F:\ISLINGTON COURSES\3RD YEAR\Application Development\AppDev.API\AppDev.Infrastructure\bin\Debug\net6.0\AppDev.Infrastructure.dll
+F:\ISLINGTON COURSES\3RD YEAR\Application Development\AppDev.API\AppDev.Infrastructure\bin\Debug\net6.0\AppDev.Infrastructure.pdb
+F:\ISLINGTON COURSES\3RD YEAR\Application Development\AppDev.API\AppDev.Infrastructure\bin\Debug\net6.0\AppDev.Application.dll
+F:\ISLINGTON COURSES\3RD YEAR\Application Development\AppDev.API\AppDev.Infrastructure\bin\Debug\net6.0\AppDev.Application.pdb
+F:\ISLINGTON COURSES\3RD YEAR\Application Development\AppDev.API\AppDev.Infrastructure\obj\Debug\net6.0\AppDev.Infrastructure.csproj.AssemblyReference.cache
+F:\ISLINGTON COURSES\3RD YEAR\Application Development\AppDev.API\AppDev.Infrastructure\obj\Debug\net6.0\AppDev.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\ISLINGTON COURSES\3RD YEAR\Application Development\AppDev.API\AppDev.Infrastructure\obj\Debug\net6.0\AppDev.Infrastructure.AssemblyInfoInputs.cache
+F:\ISLINGTON COURSES\3RD YEAR\Application Development\AppDev.API\AppDev.Infrastructure\obj\Debug\net6.0\AppDev.Infrastructure.AssemblyInfo.cs
+F:\ISLINGTON COURSES\3RD YEAR\Application Development\AppDev.API\AppDev.Infrastructure\obj\Debug\net6.0\AppDev.Infrastructure.csproj.CoreCompileInputs.cache
+F:\ISLINGTON COURSES\3RD YEAR\Application Development\AppDev.API\AppDev.Infrastructure\obj\Debug\net6.0\AppDev.Infrastructure.csproj.CopyComplete
+F:\ISLINGTON COURSES\3RD YEAR\Application Development\AppDev.API\AppDev.Infrastructure\obj\Debug\net6.0\AppDev.Infrastructure.dll
+F:\ISLINGTON COURSES\3RD YEAR\Application Development\AppDev.API\AppDev.Infrastructure\obj\Debug\net6.0\refint\AppDev.Infrastructure.dll
+F:\ISLINGTON COURSES\3RD YEAR\Application Development\AppDev.API\AppDev.Infrastructure\obj\Debug\net6.0\AppDev.Infrastructure.pdb
+F:\ISLINGTON COURSES\3RD YEAR\Application Development\AppDev.API\AppDev.Infrastructure\obj\Debug\net6.0\ref\AppDev.Infrastructure.dll
+F:\ISLINGTON COURSES\3RD YEAR\Application Development\AppDev.API\AppDev.Infrastructure\bin\Debug\net6.0\AppDev.Infrastructure.runtimeconfig.json
+F:\ISLINGTON COURSES\3RD YEAR\Application Development\AppDev.API\AppDev.Infrastructure\obj\Debug\net6.0\AppDev.Infrastructure.genruntimeconfig.cache
+E:\document\AppDev.API\AppDev.API\AppDev.Infrastructure\obj\Debug\net6.0\AppDev.Infrastructure.csproj.AssemblyReference.cache
+E:\document\AppDev.API\AppDev.API\AppDev.Infrastructure\obj\Debug\net6.0\AppDev.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\document\AppDev.API\AppDev.API\AppDev.Infrastructure\obj\Debug\net6.0\AppDev.Infrastructure.AssemblyInfoInputs.cache
+E:\document\AppDev.API\AppDev.API\AppDev.Infrastructure\obj\Debug\net6.0\AppDev.Infrastructure.AssemblyInfo.cs
+E:\document\AppDev.API\AppDev.API\AppDev.Infrastructure\obj\Debug\net6.0\AppDev.Infrastructure.csproj.CoreCompileInputs.cache
+E:\document\AppDev.API\AppDev.API\AppDev.Infrastructure\obj\Debug\net6.0\AppDev.Infrastructure.dll
+E:\document\AppDev.API\AppDev.API\AppDev.Infrastructure\obj\Debug\net6.0\refint\AppDev.Infrastructure.dll
+E:\document\AppDev.API\AppDev.API\AppDev.Infrastructure\obj\Debug\net6.0\AppDev.Infrastructure.pdb
+E:\document\AppDev.API\AppDev.API\AppDev.Infrastructure\bin\Debug\net6.0\AppDev.Infrastructure.deps.json
+E:\document\AppDev.API\AppDev.API\AppDev.Infrastructure\bin\Debug\net6.0\AppDev.Infrastructure.runtimeconfig.json
+E:\document\AppDev.API\AppDev.API\AppDev.Infrastructure\bin\Debug\net6.0\AppDev.Infrastructure.dll
+E:\document\AppDev.API\AppDev.API\AppDev.Infrastructure\bin\Debug\net6.0\AppDev.Infrastructure.pdb
+E:\document\AppDev.API\AppDev.API\AppDev.Infrastructure\bin\Debug\net6.0\AppDev.Application.dll
+E:\document\AppDev.API\AppDev.API\AppDev.Infrastructure\bin\Debug\net6.0\AppDev.Application.pdb
+E:\document\AppDev.API\AppDev.API\AppDev.Infrastructure\obj\Debug\net6.0\AppDev.Infrastructure.csproj.CopyComplete
+E:\document\AppDev.API\AppDev.API\AppDev.Infrastructure\obj\Debug\net6.0\AppDev.Infrastructure.genruntimeconfig.cache
+E:\document\AppDev.API\AppDev.API\AppDev.Infrastructure\obj\Debug\net6.0\ref\AppDev.Infrastructure.dll
+E:\document\AppDev.API\AppDev.API\AppDev.Infrastructure\bin\Debug\net6.0\AppDev.Domain.dll
+E:\document\AppDev.API\AppDev.API\AppDev.Infrastructure\bin\Debug\net6.0\AppDev.Domain.pdb

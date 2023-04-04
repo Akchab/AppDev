@@ -1,0 +1,136 @@
+F:\ISLINGTON COURSES\3RD YEAR\Application Development\AppDev.API\AppDev.API\bin\Debug\net6.0\appsettings.Development.json
+F:\ISLINGTON COURSES\3RD YEAR\Application Development\AppDev.API\AppDev.API\bin\Debug\net6.0\appsettings.json
+F:\ISLINGTON COURSES\3RD YEAR\Application Development\AppDev.API\AppDev.API\bin\Debug\net6.0\AppDev.API.exe
+F:\ISLINGTON COURSES\3RD YEAR\Application Development\AppDev.API\AppDev.API\bin\Debug\net6.0\AppDev.API.deps.json
+F:\ISLINGTON COURSES\3RD YEAR\Application Development\AppDev.API\AppDev.API\bin\Debug\net6.0\AppDev.API.runtimeconfig.json
+F:\ISLINGTON COURSES\3RD YEAR\Application Development\AppDev.API\AppDev.API\bin\Debug\net6.0\AppDev.API.dll
+F:\ISLINGTON COURSES\3RD YEAR\Application Development\AppDev.API\AppDev.API\bin\Debug\net6.0\AppDev.API.pdb
+F:\ISLINGTON COURSES\3RD YEAR\Application Development\AppDev.API\AppDev.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\ISLINGTON COURSES\3RD YEAR\Application Development\AppDev.API\AppDev.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\ISLINGTON COURSES\3RD YEAR\Application Development\AppDev.API\AppDev.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\ISLINGTON COURSES\3RD YEAR\Application Development\AppDev.API\AppDev.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\ISLINGTON COURSES\3RD YEAR\Application Development\AppDev.API\AppDev.API\bin\Debug\net6.0\AppDev.Application.dll
+F:\ISLINGTON COURSES\3RD YEAR\Application Development\AppDev.API\AppDev.API\bin\Debug\net6.0\AppDev.Infrastructure.dll
+F:\ISLINGTON COURSES\3RD YEAR\Application Development\AppDev.API\AppDev.API\bin\Debug\net6.0\AppDev.Application.pdb
+F:\ISLINGTON COURSES\3RD YEAR\Application Development\AppDev.API\AppDev.API\bin\Debug\net6.0\AppDev.Infrastructure.pdb
+F:\ISLINGTON COURSES\3RD YEAR\Application Development\AppDev.API\AppDev.API\obj\Debug\net6.0\AppDev.API.csproj.AssemblyReference.cache
+F:\ISLINGTON COURSES\3RD YEAR\Application Development\AppDev.API\AppDev.API\obj\Debug\net6.0\AppDev.API.GeneratedMSBuildEditorConfig.editorconfig
+F:\ISLINGTON COURSES\3RD YEAR\Application Development\AppDev.API\AppDev.API\obj\Debug\net6.0\AppDev.API.AssemblyInfoInputs.cache
+F:\ISLINGTON COURSES\3RD YEAR\Application Development\AppDev.API\AppDev.API\obj\Debug\net6.0\AppDev.API.AssemblyInfo.cs
+F:\ISLINGTON COURSES\3RD YEAR\Application Development\AppDev.API\AppDev.API\obj\Debug\net6.0\AppDev.API.csproj.CoreCompileInputs.cache
+F:\ISLINGTON COURSES\3RD YEAR\Application Development\AppDev.API\AppDev.API\obj\Debug\net6.0\AppDev.API.MvcApplicationPartsAssemblyInfo.cs
+F:\ISLINGTON COURSES\3RD YEAR\Application Development\AppDev.API\AppDev.API\obj\Debug\net6.0\AppDev.API.MvcApplicationPartsAssemblyInfo.cache
+F:\ISLINGTON COURSES\3RD YEAR\Application Development\AppDev.API\AppDev.API\obj\Debug\net6.0\staticwebassets\msbuild.AppDev.API.Microsoft.AspNetCore.StaticWebAssets.props
+F:\ISLINGTON COURSES\3RD YEAR\Application Development\AppDev.API\AppDev.API\obj\Debug\net6.0\staticwebassets\msbuild.build.AppDev.API.props
+F:\ISLINGTON COURSES\3RD YEAR\Application Development\AppDev.API\AppDev.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AppDev.API.props
+F:\ISLINGTON COURSES\3RD YEAR\Application Development\AppDev.API\AppDev.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AppDev.API.props
+F:\ISLINGTON COURSES\3RD YEAR\Application Development\AppDev.API\AppDev.API\obj\Debug\net6.0\staticwebassets.pack.json
+F:\ISLINGTON COURSES\3RD YEAR\Application Development\AppDev.API\AppDev.API\obj\Debug\net6.0\staticwebassets.build.json
+F:\ISLINGTON COURSES\3RD YEAR\Application Development\AppDev.API\AppDev.API\obj\Debug\net6.0\staticwebassets.development.json
+F:\ISLINGTON COURSES\3RD YEAR\Application Development\AppDev.API\AppDev.API\obj\Debug\net6.0\scopedcss\bundle\AppDev.API.styles.css
+F:\ISLINGTON COURSES\3RD YEAR\Application Development\AppDev.API\AppDev.API\obj\Debug\net6.0\AppDev.API.csproj.CopyComplete
+F:\ISLINGTON COURSES\3RD YEAR\Application Development\AppDev.API\AppDev.API\obj\Debug\net6.0\AppDev.API.dll
+F:\ISLINGTON COURSES\3RD YEAR\Application Development\AppDev.API\AppDev.API\obj\Debug\net6.0\refint\AppDev.API.dll
+F:\ISLINGTON COURSES\3RD YEAR\Application Development\AppDev.API\AppDev.API\obj\Debug\net6.0\AppDev.API.pdb
+F:\ISLINGTON COURSES\3RD YEAR\Application Development\AppDev.API\AppDev.API\obj\Debug\net6.0\AppDev.API.genruntimeconfig.cache
+F:\ISLINGTON COURSES\3RD YEAR\Application Development\AppDev.API\AppDev.API\obj\Debug\net6.0\ref\AppDev.API.dll
+F:\ISLINGTON COURSES\3RD YEAR\Application Development\AppDev.API\AppDev.API\bin\Debug\net6.0\Humanizer.dll
+F:\ISLINGTON COURSES\3RD YEAR\Application Development\AppDev.API\AppDev.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\ISLINGTON COURSES\3RD YEAR\Application Development\AppDev.API\AppDev.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\ISLINGTON COURSES\3RD YEAR\Application Development\AppDev.API\AppDev.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\ISLINGTON COURSES\3RD YEAR\Application Development\AppDev.API\AppDev.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\ISLINGTON COURSES\3RD YEAR\Application Development\AppDev.API\AppDev.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\ISLINGTON COURSES\3RD YEAR\Application Development\AppDev.API\AppDev.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\ISLINGTON COURSES\3RD YEAR\Application Development\AppDev.API\AppDev.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\ISLINGTON COURSES\3RD YEAR\Application Development\AppDev.API\AppDev.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\ISLINGTON COURSES\3RD YEAR\Application Development\AppDev.API\AppDev.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\ISLINGTON COURSES\3RD YEAR\Application Development\AppDev.API\AppDev.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+F:\ISLINGTON COURSES\3RD YEAR\Application Development\AppDev.API\AppDev.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+F:\ISLINGTON COURSES\3RD YEAR\Application Development\AppDev.API\AppDev.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\ISLINGTON COURSES\3RD YEAR\Application Development\AppDev.API\AppDev.API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+F:\ISLINGTON COURSES\3RD YEAR\Application Development\AppDev.API\AppDev.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+F:\ISLINGTON COURSES\3RD YEAR\Application Development\AppDev.API\AppDev.API\bin\Debug\net6.0\Mono.TextTemplating.dll
+F:\ISLINGTON COURSES\3RD YEAR\Application Development\AppDev.API\AppDev.API\bin\Debug\net6.0\Npgsql.dll
+F:\ISLINGTON COURSES\3RD YEAR\Application Development\AppDev.API\AppDev.API\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+F:\ISLINGTON COURSES\3RD YEAR\Application Development\AppDev.API\AppDev.API\bin\Debug\net6.0\System.CodeDom.dll
+F:\ISLINGTON COURSES\3RD YEAR\Application Development\AppDev.API\AppDev.API\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+F:\ISLINGTON COURSES\3RD YEAR\Application Development\AppDev.API\AppDev.API\bin\Debug\net6.0\System.Text.Json.dll
+F:\ISLINGTON COURSES\3RD YEAR\Application Development\AppDev.API\AppDev.API\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\document\AppDev.API\AppDev.API\AppDev.API\obj\Debug\net6.0\AppDev.API.csproj.AssemblyReference.cache
+E:\document\AppDev.API\AppDev.API\AppDev.API\obj\Debug\net6.0\AppDev.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\document\AppDev.API\AppDev.API\AppDev.API\obj\Debug\net6.0\AppDev.API.AssemblyInfoInputs.cache
+E:\document\AppDev.API\AppDev.API\AppDev.API\obj\Debug\net6.0\AppDev.API.AssemblyInfo.cs
+E:\document\AppDev.API\AppDev.API\AppDev.API\obj\Debug\net6.0\AppDev.API.csproj.CoreCompileInputs.cache
+E:\document\AppDev.API\AppDev.API\AppDev.API\obj\Debug\net6.0\AppDev.API.MvcApplicationPartsAssemblyInfo.cache
+E:\document\AppDev.API\AppDev.API\AppDev.API\obj\Debug\net6.0\AppDev.API.dll
+E:\document\AppDev.API\AppDev.API\AppDev.API\obj\Debug\net6.0\refint\AppDev.API.dll
+E:\document\AppDev.API\AppDev.API\AppDev.API\obj\Debug\net6.0\AppDev.API.pdb
+E:\document\AppDev.API\AppDev.API\AppDev.API\bin\Debug\net6.0\appsettings.Development.json
+E:\document\AppDev.API\AppDev.API\AppDev.API\bin\Debug\net6.0\appsettings.json
+E:\document\AppDev.API\AppDev.API\AppDev.API\bin\Debug\net6.0\AppDev.API.exe
+E:\document\AppDev.API\AppDev.API\AppDev.API\bin\Debug\net6.0\AppDev.API.deps.json
+E:\document\AppDev.API\AppDev.API\AppDev.API\bin\Debug\net6.0\AppDev.API.runtimeconfig.json
+E:\document\AppDev.API\AppDev.API\AppDev.API\bin\Debug\net6.0\AppDev.API.dll
+E:\document\AppDev.API\AppDev.API\AppDev.API\bin\Debug\net6.0\AppDev.API.pdb
+E:\document\AppDev.API\AppDev.API\AppDev.API\bin\Debug\net6.0\Humanizer.dll
+E:\document\AppDev.API\AppDev.API\AppDev.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\document\AppDev.API\AppDev.API\AppDev.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\document\AppDev.API\AppDev.API\AppDev.API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\document\AppDev.API\AppDev.API\AppDev.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\document\AppDev.API\AppDev.API\AppDev.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\document\AppDev.API\AppDev.API\AppDev.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\document\AppDev.API\AppDev.API\AppDev.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\document\AppDev.API\AppDev.API\AppDev.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\document\AppDev.API\AppDev.API\AppDev.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\document\AppDev.API\AppDev.API\AppDev.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\document\AppDev.API\AppDev.API\AppDev.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\document\AppDev.API\AppDev.API\AppDev.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+E:\document\AppDev.API\AppDev.API\AppDev.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+E:\document\AppDev.API\AppDev.API\AppDev.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\document\AppDev.API\AppDev.API\AppDev.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\document\AppDev.API\AppDev.API\AppDev.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\document\AppDev.API\AppDev.API\AppDev.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\document\AppDev.API\AppDev.API\AppDev.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\document\AppDev.API\AppDev.API\AppDev.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\document\AppDev.API\AppDev.API\AppDev.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\document\AppDev.API\AppDev.API\AppDev.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\document\AppDev.API\AppDev.API\AppDev.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\document\AppDev.API\AppDev.API\AppDev.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\document\AppDev.API\AppDev.API\AppDev.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\document\AppDev.API\AppDev.API\AppDev.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\document\AppDev.API\AppDev.API\AppDev.API\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\document\AppDev.API\AppDev.API\AppDev.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\document\AppDev.API\AppDev.API\AppDev.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\document\AppDev.API\AppDev.API\AppDev.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\document\AppDev.API\AppDev.API\AppDev.API\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\document\AppDev.API\AppDev.API\AppDev.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\document\AppDev.API\AppDev.API\AppDev.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\document\AppDev.API\AppDev.API\AppDev.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\document\AppDev.API\AppDev.API\AppDev.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\document\AppDev.API\AppDev.API\AppDev.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\document\AppDev.API\AppDev.API\AppDev.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\document\AppDev.API\AppDev.API\AppDev.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\document\AppDev.API\AppDev.API\AppDev.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\document\AppDev.API\AppDev.API\AppDev.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\document\AppDev.API\AppDev.API\AppDev.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\document\AppDev.API\AppDev.API\AppDev.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\document\AppDev.API\AppDev.API\AppDev.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\document\AppDev.API\AppDev.API\AppDev.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\document\AppDev.API\AppDev.API\AppDev.API\bin\Debug\net6.0\AppDev.Application.dll
+E:\document\AppDev.API\AppDev.API\AppDev.API\bin\Debug\net6.0\AppDev.Infrastructure.dll
+E:\document\AppDev.API\AppDev.API\AppDev.API\bin\Debug\net6.0\AppDev.Application.pdb
+E:\document\AppDev.API\AppDev.API\AppDev.API\bin\Debug\net6.0\AppDev.Infrastructure.pdb
+E:\document\AppDev.API\AppDev.API\AppDev.API\obj\Debug\net6.0\staticwebassets\msbuild.AppDev.API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\document\AppDev.API\AppDev.API\AppDev.API\obj\Debug\net6.0\staticwebassets\msbuild.build.AppDev.API.props
+E:\document\AppDev.API\AppDev.API\AppDev.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AppDev.API.props
+E:\document\AppDev.API\AppDev.API\AppDev.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AppDev.API.props
+E:\document\AppDev.API\AppDev.API\AppDev.API\obj\Debug\net6.0\staticwebassets.pack.json
+E:\document\AppDev.API\AppDev.API\AppDev.API\obj\Debug\net6.0\staticwebassets.build.json
+E:\document\AppDev.API\AppDev.API\AppDev.API\obj\Debug\net6.0\staticwebassets.development.json
+E:\document\AppDev.API\AppDev.API\AppDev.API\obj\Debug\net6.0\scopedcss\bundle\AppDev.API.styles.css
+E:\document\AppDev.API\AppDev.API\AppDev.API\obj\Debug\net6.0\AppDev.API.csproj.CopyComplete
+E:\document\AppDev.API\AppDev.API\AppDev.API\obj\Debug\net6.0\AppDev.API.genruntimeconfig.cache
+E:\document\AppDev.API\AppDev.API\AppDev.API\obj\Debug\net6.0\ref\AppDev.API.dll
+E:\document\AppDev.API\AppDev.API\AppDev.API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\document\AppDev.API\AppDev.API\AppDev.API\bin\Debug\net6.0\AppDev.Domain.dll
+E:\document\AppDev.API\AppDev.API\AppDev.API\bin\Debug\net6.0\AppDev.Domain.pdb
